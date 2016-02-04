@@ -29,7 +29,7 @@ I hope to eventually pull in list of art based on various criteria to make it mo
 # Demos
 
 A working demo can be seen here:
-[brentwaggoner.com/painting](https://www.google.com)
+[brentwaggoner.com/painting](http://brentwaggoner.com/painting/)
 
 JSON results can be seen here:
 [brentwaggoner.com/painting/json/api](http://brentwaggoner.com/painting/json/api)
