@@ -1,0 +1,8 @@
+E:\OurData\Projects\MetMuseumApi\MetMuseumApi\bin\Debug\MetMuseumApi.dll
+E:\OurData\Projects\MetMuseumApi\MetMuseumApi\bin\Debug\MetMuseumApi.pdb
+E:\OurData\Projects\MetMuseumApi\MetMuseumApi\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\OurData\Projects\MetMuseumApi\MetMuseumApi\obj\Debug\MetMuseumApi.csprojResolveAssemblyReference.cache
+E:\OurData\Projects\MetMuseumApi\MetMuseumApi\obj\Debug\MetMuseumApi.dll
+E:\OurData\Projects\MetMuseumApi\MetMuseumApi\obj\Debug\MetMuseumApi.pdb
+E:\OurData\Projects\MetMuseumApi\MetMuseumApi\bin\Debug\Newtonsoft.Json.dll
+E:\OurData\Projects\MetMuseumApi\MetMuseumApi\bin\Debug\Newtonsoft.Json.xml
